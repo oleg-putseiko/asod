@@ -1,17 +1,17 @@
 {
-  "name": "asod",
-  "description": "Algorithms and structures of data",
+  "name": "@asod/sort",
+  "description": "Sorting algorithms",
   "version": "0.1.0",
   "license": "MIT",
   "author": "Oleg Putseiko <oleg.putseiko@gmail.com> (https://github.com/oleg-putseiko)",
   "keywords": [],
-  "homepage": "https://github.com/oleg-putseiko/asod",
+  "homepage": "https://github.com/asodorg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleg-putseiko/asod"
+    "url": "https://github.com/asodorg/sort"
   },
   "bugs": {
-    "url": "https://github.com/oleg-putseiko/asod/issues"
+    "url": "https://github.com/asodorg/sort/issues"
   },
   "main": "dist/index.js",
   "files": [

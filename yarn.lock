@@ -5,6 +5,27 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"@asod/sort@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@asod/sort@workspace:."
+  dependencies:
+    "@commitlint/cli": "npm:^18.2.0"
+    "@commitlint/config-conventional": "npm:^18.1.0"
+    "@swc/cli": "npm:^0.5.2"
+    "@swc/core": "npm:^1.10.1"
+    "@types/node": "npm:^22.10.1"
+    "@typescript-eslint/eslint-plugin": "npm:^8.28.0"
+    "@typescript-eslint/parser": "npm:^8.28.0"
+    eslint: "npm:^9.16.0"
+    eslint-config-prettier: "npm:^10.1.1"
+    husky: "npm:^8.0.3"
+    lint-staged: "npm:^15.0.2"
+    prettier: "npm:^3.0.3"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.7.2"
+  languageName: unknown
+  linkType: soft
+
 "@babel/code-frame@npm:^7.0.0":
   version: 7.27.1
   resolution: "@babel/code-frame@npm:7.27.1"
@@ -1237,27 +1258,6 @@ __metadata:
   checksum: 10c0/c35c8d1a81bcd5474c0c57fe3f4bad1a4d46a5fa353cedcff7a54da315df60db71829e69104b859dff96c5d68af46bd2be259fe5e50dc6aa9df3b36bea0383ab
   languageName: node
   linkType: hard
-
-"asod@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "asod@workspace:."
-  dependencies:
-    "@commitlint/cli": "npm:^18.2.0"
-    "@commitlint/config-conventional": "npm:^18.1.0"
-    "@swc/cli": "npm:^0.5.2"
-    "@swc/core": "npm:^1.10.1"
-    "@types/node": "npm:^22.10.1"
-    "@typescript-eslint/eslint-plugin": "npm:^8.28.0"
-    "@typescript-eslint/parser": "npm:^8.28.0"
-    eslint: "npm:^9.16.0"
-    eslint-config-prettier: "npm:^10.1.1"
-    husky: "npm:^8.0.3"
-    lint-staged: "npm:^15.0.2"
-    prettier: "npm:^3.0.3"
-    ts-node: "npm:^10.9.2"
-    typescript: "npm:^5.7.2"
-  languageName: unknown
-  linkType: soft
 
 "b4a@npm:^1.6.4":
   version: 1.7.3
