@@ -1,18 +1,17 @@
 {
-  "name": "sort",
-  "description": "",
+  "name": "asod",
+  "description": "Algorithms and structures of data",
   "version": "0.1.0",
   "license": "MIT",
-  "type": "module",
   "author": "Oleg Putseiko <oleg.putseiko@gmail.com> (https://github.com/oleg-putseiko)",
   "keywords": [],
-  "homepage": "https://github.com/oleg-putseiko/sort",
+  "homepage": "https://github.com/oleg-putseiko/asod",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleg-putseiko/sort"
+    "url": "https://github.com/oleg-putseiko/asod"
   },
   "bugs": {
-    "url": "https://github.com/oleg-putseiko/sort/issues"
+    "url": "https://github.com/oleg-putseiko/asod/issues"
   },
   "main": "dist/index.js",
   "files": [
